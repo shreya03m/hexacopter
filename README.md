@@ -1,4 +1,4 @@
-# Human-following-drone
+# Human-following-drone-HEXACOPTER
 
 ## Description:-
 As drones become more and more complex, there are many different features that users can pick from. Having a drone camera that follows you has a unique appeal for those in the filming and videography realm: the pilot can lock the 'drone's direction on a very specified moving target.
